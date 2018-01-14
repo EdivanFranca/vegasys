@@ -1,0 +1,20 @@
+ MINHA EMPRESA AQUI LTDA
+ RUA: SANTA RITA, 1000
+ CEP: 36500-000 - UBÁ - MG
+ CNPJ: 12.345.678/0001-10
+--------------------------------
+        CUPOM NÃO FISCAL        
+--------------------------------
+QT   PREÇO   DESCRIÇÃO
+
+1.0 x 1.25 - Fubá Da Roça
+1.0 x 9.67 - Arroz Tio João
+1.0 x 6.40 - Açucar União pacote 5kg
+1.0 x 5.80 - Café Negão 500g
+1.0 x 1.25 - Fubá Da Roça
+1.0 x 9.67 - Arroz Tio João
+1.0 x 6.40 - Açucar União pacote 5kg
+--------------------------------
+                 Valor bruto: 40.44
+                 Desconto: 0.0
+                 Valor total: 40.44
